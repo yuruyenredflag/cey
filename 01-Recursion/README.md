@@ -47,6 +47,9 @@ Verilen dizideki en buyuk tam sayiyi recursive olarak bulan bir method yaz.
 Labirent kurallari:
 
 - 0 yurunebilen yol
+
 - 1 duvar
+
+LABIRENT SOL USTTEN BASLAYIP SAG ALTTA BITIYOLABIRENT SOL USTTEN BASLAYIP SAG ALTTA BITIYORR
 
 ---
